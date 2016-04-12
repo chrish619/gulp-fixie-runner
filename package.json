@@ -12,5 +12,14 @@
     "gulp-util": "^3.0.7",
     "path": "^0.12.7",
     "through2": "^2.0.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrish619/gulp-fixie-runner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrish619/gulp-fixie-runner/issues"
+  },
+  "homepage": "https://github.com/chrish619/gulp-fixie-runner#readme"
 }
